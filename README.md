@@ -1,5 +1,6 @@
 # Movie Seat Project 🎬
------------
+
+<img src="/public/movie-seat.png" />
 
 ## 💻 Made with: Vanilla Javascript
 
